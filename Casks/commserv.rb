@@ -16,10 +16,10 @@ cask "ember-messenger" do
   app "Ember.app"
 
   zap trash: [
-    "~/Library/Application Support/CommSecure",
-    "~/Library/Caches/io.darkmatterit.commsecure",
-    "~/Library/HTTPStorages/io.darkmatterit.commsecure",
-    "~/Library/Preferences/io.darkmatterit.commsecure.plist",
-    "~/Library/Saved Application State/io.darkmatterit.commsecure.savedState",
+    "~/Library/Application Support/Ember",
+    "~/Library/Caches/io.darkmatterit.ember",
+    "~/Library/HTTPStorages/io.darkmatterit.ember",
+    "~/Library/Preferences/io.darkmatterit.ember.plist",
+    "~/Library/Saved Application State/io.darkmatterit.ember.savedState",
   ]
 end
