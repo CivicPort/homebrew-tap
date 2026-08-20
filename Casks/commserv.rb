@@ -13,7 +13,7 @@ cask "ember-messenger" do
 
   depends_on macos: :monterey
 
-  app "CommSecure.app"
+  app "Ember.app"
 
   zap trash: [
     "~/Library/Application Support/CommSecure",
