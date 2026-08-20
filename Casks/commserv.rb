@@ -1,4 +1,4 @@
-cask "commserv" do
+cask "ember-messenger" do
   version "0.9.0"
   sha256 "2d0c2a6a3361a515f3a5ba0e62450b3868117d78bd64d6a65106b29aff249c48"
 
