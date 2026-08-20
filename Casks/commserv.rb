@@ -1,5 +1,5 @@
 cask "commserv" do
-  version "0.7.0"
+  version "0.9.0"
   sha256 "902b8c7bf5ccc0626121057e7e7ba4e8dd612f759b452b5f538489748089c3ef"
 
   url "https://github.com/CloudFlowAutomation/CommSecure/releases/download/v#{version}/CommSecure-darwin-universal-#{version}.zip"
