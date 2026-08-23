@@ -5,7 +5,7 @@ cask "ember-messenger" do
   url "https://github.com/CloudFlowAutomation/Ember/releases/download/v#{version}/CommSecure-darwin-universal-#{version}.zip"
   name "ember-messenger"
   desc "End-to-end encrypted group chat client with perfect forward secrecy"
-  homepage "https://github.com/CloudFlowAutomation/Ember"
+  homepage "https://github.com/CivicPort/Ember"
 
   livecheck do
     url :url
