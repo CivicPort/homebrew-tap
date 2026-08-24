@@ -1,6 +1,6 @@
 
 cask "ember-messenger" do
-  version "0.10.0"
+  version "0.10.1"
   sha256 "4244986debe4bd0e606dca04bd9be0a4ce9d152d50612dd8175348e501b8d858"
  
   url "https://github.com/CivicPort/Ember/releases/download/v#{version}/CommSecure-darwin-universal-#{version}.zip"
